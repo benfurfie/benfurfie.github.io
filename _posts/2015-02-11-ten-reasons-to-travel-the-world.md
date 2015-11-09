@@ -1,11 +1,11 @@
 ---
 layout: post-sidebar
-title:  "10 Reasons to travel the world"
+title:  "5 reasons you shouldn't use only one CMS"
 date: 2015-02-11 08:50:28
 categories: travel storytime
-author_name : Michelle Jones
-author_url : /author/michelle
-author_avatar: michelle
+author_name : Ben Furfie
+author_url : /author/ben
+author_avatar: ben
 show_avatar : true
 read_time : 2
 feature_image: feature-wolf
