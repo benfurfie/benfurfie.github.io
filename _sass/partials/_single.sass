@@ -68,9 +68,11 @@ blockquote
 
     h1
         letter-spacing: -1pt
+        margin-bottom: 50px
 
         +breakpoint(sm)
             +font-size(44)
+
     h2
         +font-size(28)
 
@@ -85,9 +87,10 @@ blockquote
 
 .single-content-sidebar-area
 
-    padding: 30px 15px
+    display: none
 
     +breakpoint(md)
+        display: block
         padding: 70px 0 0 25px
 
     .meta
