@@ -7,12 +7,21 @@ feature_image: feature-about
 
 Hi. I'm Ben. I've been developing websites since 2002. After a ten year stint in journalism, I decided to follow my passion and become a full time front end developer.
 
-Since then, I've built websites in a variety of content management systems, including Drupal, WordPress, Magento, Perch, Statamic and Jekyll (which powers this very blog).
+Since then, I've built websites using a variety of content management systems, including Drupal, WordPress, Magento, Perch, Statamic and Jekyll (which powers this very blog).
 
 I love helping other developers – especially those running their own freelance businesses (been there, done that, got the grey hairs).
 
 ## About this blog
+I started this blog to provide me with somewhere to put my thoughts about front end development and the business of web development.
 
+## Mentoring
+If you're based around the Liverpool area, I offer one-to-one mentoring. At the beginning, I'll help you learn the basics – such as HTML, CSS and Javascript. I'll also give you projects and tasks to make use of your new knowledge.
+
+It's £20 a week* and is offered in the evenings and on weekends. It usually takes between six and 12 months – depending on the time you put in. That's just over £500 to learn to become a web developer.
+
+Once you've gotten to a point where you can start applying for junior front end developer positions, you can either stop paying or continue paying £20 a month to be able to ask me questions and for feedback on code. For more information, drop me an email hello[at]benfurfie.co.uk.
+
+_* Additional software including a subscription to Treehouse will be required._
 
 ## Podcasting
 In 2015, I hosted a fortnightly podcast called UK Genesis, which was aimed at promoting web developers in the UK that use the Genesis Framework for WordPress.
