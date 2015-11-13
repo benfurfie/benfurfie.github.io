@@ -1,7 +1,7 @@
 ---
 layout: "post-sidebar"
 title: The top mistake WordPress theme developers make
-date: {}
+date: 2015-11-11T09:00:00.000Z
 categories: WordPress CMSs
 author_name: Ben Furfie
 author_url: /author/ben
