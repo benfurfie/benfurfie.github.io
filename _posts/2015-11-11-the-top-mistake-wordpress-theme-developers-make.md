@@ -21,6 +21,8 @@ But before we dive into why those words are so scary, it's probably best to dive
 ### Progressive enhancement and broken sites
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati doloribus, culpa, et suscipit praesentium incidunt, libero officiis ipsum fugiat odit aperiam commodi unde dignissimos veritatis accusamus molestias iste magni nobis?
 
+This is a really cool text edit.! Yay, boom!
+
 ![Dog and bone]({{site.baseurl}}/_posts/Dog_human_app_phone.jpg)
 
 ### Form vs Function
