@@ -1,7 +1,16 @@
 ---
-published: false
+layout: post
+published: true
 title: Why learning to build websites using WordPress is a bad idea.
+description: ""
+modified: ""
+categories: null
+tags: ""
+imagefeature: ""
+featured: false
+comments: false
 ---
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis metus eu risus pellentesque, ac hendrerit ligula molestie. Donec ullamcorper lobortis venenatis. Donec ultricies sem eu purus dignissim, quis rutrum tellus lacinia.
 
