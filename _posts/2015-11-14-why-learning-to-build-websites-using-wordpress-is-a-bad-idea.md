@@ -1,10 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: Why learning to build websites using WordPress is a bad idea.
-description: ""
+description: "Many developers working in web design and development learnt via WordPress. But that doesn't mean that's a good thing; or that you should to."
 modified: ""
-categories: null
+categories: 
+  - wordpress
+  - cmss
+  - "business-of-web-development"
 tags: ""
 imagefeature: ""
 featured: false
