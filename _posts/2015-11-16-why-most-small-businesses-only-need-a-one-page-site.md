@@ -10,7 +10,12 @@ imagefeature: ""
 featured: false
 comments: false
 title: Why most small businesses only need a one page site
+author_name: Ben Furfie
+author_url: /author/ben
+feature_image: "feature-business-laptop,jpg"
+square_related: "recommend-business-laptop.jpg"
 ---
+
 
 
 
