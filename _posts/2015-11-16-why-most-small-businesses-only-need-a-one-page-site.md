@@ -1,19 +1,14 @@
 ---
 layout: post
 published: true
-description: ""
 modified: ""
-categories: 
+categories:
   - "business-of-web-development"
-tags: ""
-imagefeature: ""
-featured: false
-comments: false
 title: Why most small businesses only need a one page site
 author_name: Ben Furfie
 author_url: /author/ben
-feature_image: "feature-business-laptop,jpg"
-square_related: "recommend-business-laptop.jpg"
+feature_image: "feature-business-laptop"
+square_related: "recommend-business-laptop"
 ---
 
 
