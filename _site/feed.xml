@@ -5,9 +5,66 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Nov 2015 19:52:13 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2015 19:52:13 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2015 21:19:10 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2015 21:19:10 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Why most small businesses only need a one page site</title>
+        <description>&lt;p&gt;It’s fairly common for small businesses to think they need an all singing, all dancing website.&lt;/p&gt;
+
+&lt;p&gt;Most only need a single page for all their informational content.&lt;/p&gt;
+
+&lt;p&gt;You could then attach a blog which could focus on:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Customer wins&lt;/li&gt;
+  &lt;li&gt;Finishing off a project&lt;/li&gt;
+  &lt;li&gt;New hires&lt;/li&gt;
+  &lt;li&gt;Answering frequently asked questions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And so on…&lt;/p&gt;
+
+&lt;p&gt;Don’t even need to be able to edit the site beyond contact details. No need for CMS. Can even be static.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+        <link>/why-most-small-businesses-only-need-a-one-page-site</link>
+        <guid isPermaLink="true">/why-most-small-businesses-only-need-a-one-page-site</guid>
+        
+        
+        <category>business-of-web-development</category>
+        
+      </item>
+    
+      <item>
+        <title>Why learning to build websites using WordPress is a bad idea.</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis metus eu risus pellentesque, ac hendrerit ligula molestie. Donec ullamcorper lobortis venenatis. Donec ultricies sem eu purus dignissim, quis rutrum tellus lacinia.&lt;/p&gt;
+
+&lt;p&gt;Morbi luctus eleifend pulvinar. Sed sodales sodales mauris pellentesque viverra. Nullam vehicula lacinia risus sed placerat. Duis eu vehicula dui. Curabitur eget purus venenatis, feugiat nibh vitae, porttitor elit. Nullam bibendum ut nisi vitae vehicula. Nullam non urna a leo pharetra posuere.&lt;/p&gt;
+
+&lt;h2 id=&quot;nam-quis-mauris-non-orci-tristique-fringilla&quot;&gt;Nam quis mauris non orci tristique fringilla&lt;/h2&gt;
+&lt;p&gt;Sed sapien ante, imperdiet vel rhoncus nec, vestibulum et diam. Nam hendrerit neque justo, ultricies pretium metus rhoncus id. Morbi et lorem sit amet enim fermentum rutrum id sed nunc.&lt;/p&gt;
+
+&lt;p&gt;Ut arcu urna, dignissim id tempus quis, porta eu felis. Quisque cursus elit ut sapien commodo, a dictum eros malesuada. Quisque rutrum feugiat mi eget tempus.&lt;/p&gt;
+
+&lt;p&gt;In sodales mauris sit amet quam finibus consectetur. Nunc ornare molestie risus, id vestibulum nulla varius eu. Aliquam maximus, tellus a rutrum tincidunt, urna lacus placerat diam, sit amet placerat tortor ipsum vestibulum elit.&lt;/p&gt;
+
+&lt;h2 id=&quot;pellentesque-habitant-morbi&quot;&gt;Pellentesque habitant morbi&lt;/h2&gt;
+&lt;p&gt;Tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus cursus euismod lorem nec aliquet. Duis eu arcu nibh. Mauris bibendum massa finibus velit elementum, vel vehicula turpis bibendum. Donec rhoncus finibus nisi ut aliquet. Sed ac est ante. Nunc pulvinar luctus felis a posuere. Nam quis eros ipsum. Phasellus dictum est sit amet sollicitudin pellentesque. Fusce scelerisque quis sem vitae posuere. Proin in nulla mi. Sed ultrices cursus massa, eu scelerisque ex commodo at. Sed sodales sit amet metus ut lobortis.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Nov 2015 00:00:00 +0000</pubDate>
+        <link>/why-learning-to-build-websites-using-wordpress-is-a-bad-idea</link>
+        <guid isPermaLink="true">/why-learning-to-build-websites-using-wordpress-is-a-bad-idea</guid>
+        
+        
+        <category>wordpress</category>
+        
+        <category>cmss</category>
+        
+        <category>business-of-web-development</category>
+        
+      </item>
     
       <item>
         <title>The top mistake WordPress theme developers make</title>
@@ -19,6 +76,10 @@
 
 &lt;h3 id=&quot;progressive-enhancement-and-broken-sites&quot;&gt;Progressive enhancement and broken sites&lt;/h3&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati doloribus, culpa, et suscipit praesentium incidunt, libero officiis ipsum fugiat odit aperiam commodi unde dignissimos veritatis accusamus molestias iste magni nobis?&lt;/p&gt;
+
+&lt;p&gt;This is a really cool text edit.! Yay, boom!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/_posts/Dog_human_app_phone.jpg&quot; alt=&quot;Dog and bone&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;form-vs-function&quot;&gt;Form vs Function&lt;/h3&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati doloribus, culpa, et suscipit praesentium incidunt, libero officiis ipsum fugiat odit aperiam commodi unde dignissimos veritatis accusamus molestias iste magni nobis?&lt;/p&gt;

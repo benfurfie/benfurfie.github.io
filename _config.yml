@@ -47,27 +47,27 @@ prose:
         field:
           element: "hidden"
           label: "Layout"
-          value: "post"
+          value: "post-sidebar"
       - name: "title"
         field:
           label: "Title"
           element: "text"
           value: "An Awesome Headline!"
-      - name: "description"
-        field:
-          element: "text"
-          label: "Description"
-          placeholder: "Enter Post Description"
-      # - name: "headline"
-      #   field:
-      #     element: "text"
-      #     label: "beadline"
-      #     placeholder: "Enter Post Headline"
       - name: "modified"
         field:
           element: "text"
           label: "Has this page been modified?"
           placeholder: "YYYY-MM-DD"
+      - name: "author_name"
+        field:
+          element: "text"
+          label: "Author"
+          value: Ben Furfie
+      - name: "author_url"
+        field:
+          element: "text"
+          label: "Author"
+          value: /author/ben
       - name: "categories"
         field:
           element: "multiselect"
@@ -75,12 +75,12 @@ prose:
           placeholder: "Choose categories"
           value: personal
           options:
-            - name: "WordPress"
-              value: wordpress
-            - name: "CMSs"
-              value: cmss
-            - name: "Business of Web Development"
-              value: business-of-web-development
+            - name: "wordpress"
+              value: WordPress
+            - name: "cmss"
+              value: CMSs
+            - name: "business-of-web-development"
+              value: Business of Web Development
             # - name: "Psychology"
             #   value: psychology
             # - name: "Interesting"
@@ -88,28 +88,13 @@ prose:
             # - name: "Web-Development"
             #   value: webdevelopment
           alterable: true
-      - name: "tags"
-        field:
-          element: "text"
-          label: "Tags"
-          placeholder: "Enter tags, separated by spaces"
-      - name: "imagefeature"
+      - name: "feature_image"
         field:
           element: "text"
           label: "Featured Image"
           placeholder: "somefile.jpg"
-      # - name: "mathjax"
-      #   field:
-      #     element: "checkbox"
-      #     label: "MathJax"
-      #     value: false
-      - name: "featured"
+      - name: "square_related"
         field:
-          element: "checkbox"
-          label: "Featured?"
-          value: false
-      - name: "comments"
-        field:
-          element: "checkbox"
-          label: "Comments"
-          value: false
+          element: "text"
+          label: "Featured Image"
+          placeholder: "somefile.jpg"
