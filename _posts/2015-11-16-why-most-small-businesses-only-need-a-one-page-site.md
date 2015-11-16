@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-sidebar
 published: true
 modified: ""
 categories:
