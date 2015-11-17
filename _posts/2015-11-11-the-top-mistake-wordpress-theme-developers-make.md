@@ -5,7 +5,7 @@ date: 2015-11-11T09:00:00.000Z
 categories: WordPress CMSs
 author_name: Ben Furfie
 author_url: /author/ben
-read_time: null
+read_time: 5
 feature_image: "feature-wordpress"
 square_related: "recommend-wordpress"
 published: true

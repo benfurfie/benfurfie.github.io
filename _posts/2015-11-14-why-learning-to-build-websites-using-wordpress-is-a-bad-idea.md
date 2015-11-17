@@ -6,7 +6,7 @@ modified: ""
 categories:
   - WordPress
   - CMSs
-  - "Business of Web Development"
+  - Business of Web Development
 feature_image: "feature-wordpress"
 recommend_image: "recommend-wordpress"
 comments: true
