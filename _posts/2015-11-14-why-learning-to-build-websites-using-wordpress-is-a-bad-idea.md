@@ -4,9 +4,9 @@ published: true
 title: Why learning to build websites using WordPress is a bad idea.
 modified: ""
 categories:
-  - wordpress
-  - cmss
-  - "business-of-web-development"
+  - WordPress
+  - CMSs
+  - "Business of Web Development"
 feature-image: ""
 comments: true
 ---
