@@ -73,6 +73,11 @@ prose:
           element: "text"
           label: "Author Page"
           value: /author/ben
+      - name: "author_avatar"
+        field:
+          element: "text"
+          label: "Author avatars"
+          value: ben
       - name: "categories"
         field:
           element: "multiselect"
