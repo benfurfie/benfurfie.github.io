@@ -8,7 +8,7 @@ categories:
   - CMSs
   - Business of Web Development
 feature_image: "feature-wordpress"
-recommend_image: "recommend-wordpress"
+square_related: "recommend-wordpress"
 comments: true
 read_time: 3
 ---

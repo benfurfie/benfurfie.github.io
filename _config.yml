@@ -114,5 +114,5 @@ prose:
       - name: "square_related"
         field:
           element: "text"
-          label: "Featured Image"
+          label: "Recommended Image"
           placeholder: "somefile.jpg"
