@@ -9,6 +9,7 @@ read_time: null
 feature_image: "feature-wordpress"
 square_related: "recommend-wordpress"
 published: true
+comments: true
 ---
 
 

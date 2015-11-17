@@ -4,11 +4,12 @@ published: true
 modified: ""
 author_name: Ben Furfie
 author_url: /author/ben
-categories: 
+categories:
   - CMSs
 feature_image: "feature-blogging"
 square_related: "recommend-blogging"
 title: "Do you really need a CMS?"
+comments: true
 ---
 
 Check any blog post on what you must have in your next website and a CMS is a likely to be near the top.

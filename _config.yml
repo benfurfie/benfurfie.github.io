@@ -48,6 +48,11 @@ prose:
           element: "hidden"
           label: "Layout"
           value: "post-sidebar"
+      - name: "comments"
+        field:
+          label: "Comments"
+          element: "checkbox"
+          value: "true"
       - name: "title"
         field:
           label: "Title"

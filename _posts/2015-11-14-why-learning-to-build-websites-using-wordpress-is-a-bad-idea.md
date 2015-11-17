@@ -7,7 +7,8 @@ categories:
   - wordpress
   - cmss
   - "business-of-web-development"
-imagefeature: ""
+feature-image: ""
+comments: true
 ---
 
 

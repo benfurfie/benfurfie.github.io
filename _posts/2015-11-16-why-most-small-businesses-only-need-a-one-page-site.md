@@ -9,6 +9,7 @@ author_name: Ben Furfie
 author_url: /author/ben
 feature_image: "feature-business-laptop"
 square_related: "recommend-business-laptop"
+comments: true
 ---
 
 
