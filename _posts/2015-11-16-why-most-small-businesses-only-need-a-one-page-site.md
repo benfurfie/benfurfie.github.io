@@ -3,7 +3,7 @@ layout: post-sidebar
 published: true
 modified: ""
 categories:
-  - "business-of-web-development"
+  - "Business of Web Development"
 title: Why most small businesses only need a one page site
 author_name: Ben Furfie
 author_url: /author/ben
