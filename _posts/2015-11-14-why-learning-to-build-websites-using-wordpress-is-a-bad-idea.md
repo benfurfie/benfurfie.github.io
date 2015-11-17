@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-sidebar
 published: true
 title: Why learning to build websites using WordPress is a bad idea.
 modified: ""
@@ -7,8 +7,10 @@ categories:
   - WordPress
   - CMSs
   - "Business of Web Development"
-feature-image: ""
+feature_image: "feature-wordpress"
+recommend_image: "recommend-wordpress"
 comments: true
+read_time: 3
 ---
 
 
