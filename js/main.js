@@ -100,7 +100,8 @@ var s,
         }
     };
 
+    <script id="dsq-count-scr" src="//benfurfie.disqus.com/count.js" async></script>
+
 $(document).ready(function(){
     app.init();
 });
-
