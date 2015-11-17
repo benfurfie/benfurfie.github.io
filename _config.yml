@@ -58,6 +58,15 @@ prose:
           label: "Title"
           element: "text"
           value: "An Awesome Headline!"
+      - name: "read_time"
+        field:
+            label: "Read Time"
+            element: "text"
+            placeholder: "5"
+        field:
+          label: "Title"
+          element: "text"
+          value: "An Awesome Headline!"
       - name: "modified"
         field:
           element: "text"
