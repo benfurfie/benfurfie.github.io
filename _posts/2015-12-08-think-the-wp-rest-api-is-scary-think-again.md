@@ -53,18 +53,8 @@ Now go and set up your static website and create a file called _index.html_. You
 ### index.html
 Open up index.html in a code editor and paste the following code:
 
-<code>
-  <!DOCTYPE html>
-  <html>
-  <head>
-  <title>WP JSON Front End Test</title>
-  </head>
-  <body>
-  <h1 class="title"></h1>
-  <div class="content"></div>
-  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="public/controller.js"></script>
-  </body>
-  </html>
-</code>
+<script src="https://gist.github.com/benfurfie/ce28f6153cb6453c84e2.js"></script>
+
+If you're at all familar with the web, you should recognise most of this code.
+
 
