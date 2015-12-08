@@ -49,3 +49,21 @@ _Note: If you have WordPress 4.4 or later installed, you can skip this step as t
 Once you have done that, you're finished with that site as we'll be working with the dummy content. (Once you've finished with this, by all means go back and add more content to play around with this example.)
 
 Now go and set up your static website and create a file called _index.html_. You'll also want to create a folder called _public_ and a file in it called _controller.js_.
+
+### index.html
+Open up index.html in a code editor and paste the following code:
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WP JSON Front End Test</title>
+  </head>
+  <body>
+    <h1 class="title"></h1>
+    <div class="content"></div>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="public/controller.js"></script>
+  </body>
+</html>
+```
